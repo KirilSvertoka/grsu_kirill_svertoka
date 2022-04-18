@@ -1,0 +1,12 @@
+C:\Users\Administrator>ping svertoka.local
+
+Pinging Skers [fe80::d172:681a:745a:e7d8%10] with 32 bytes of data:
+Reply from fe80::8965:dee2:6e9b:cd8f%12: time<1ms
+Reply from fe80::8965:dee2:6e9b:cd8f%12: time<1ms
+Reply from fe80::8965:dee2:6e9b:cd8f%12: time<1ms
+Reply from fe80::8965:dee2:6e9b:cd8f%12: time<1ms
+
+Ping statistics for fe80::8965:dee2:6e9b:cd8f%12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
